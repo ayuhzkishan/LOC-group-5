@@ -1,7 +1,7 @@
 /*
 123
-112233  cout << endl;
-111222333 cout <<j;
+112233  
+111222333 
 */
 #include<iostream>
 using namespace std;

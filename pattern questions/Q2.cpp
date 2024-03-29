@@ -1,3 +1,10 @@
+/*
+1
+23
+456
+78910
+*/
+
 #include<iostream>
 using namespace std;
 
